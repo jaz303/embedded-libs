@@ -1,6 +1,6 @@
 # Arduino
 
-```
+```cpp
 // Pins
 #define CLK 2
 #define RST 3
